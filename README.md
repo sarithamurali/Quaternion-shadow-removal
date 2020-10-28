@@ -23,8 +23,8 @@ code/imgs/detection - shadow detection input, if available
 code/imgs/removal   - shadow removal output
 
 
-** all images are in png format
-----------------------------------------
+all images are in png format
+----------------------------
 
 References:
 
